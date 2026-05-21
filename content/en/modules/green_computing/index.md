@@ -117,9 +117,6 @@ Using the code provided in the [main-educational tutorial "Introduction to brain
 
 To go even further, try plotting the energy usage and the model accuracy curves for different sample size (i.e., different number of observations).
 
-## More resources
-
-
 
 
 
